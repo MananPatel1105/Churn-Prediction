@@ -16,10 +16,11 @@ This project aims to predict customer churn for a telecommunications company usi
 ## Installation
 
 To get started with the project, Install the required Libraries
-1.Python
-2.Numpy
-3.Scikit-Learn
-4.pickle
+
+-`Python`
+-`Numpy`
+-`Scikit-Learn`
+-`pickle`
 
 ## Dataset Information
 
