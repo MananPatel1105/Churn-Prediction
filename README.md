@@ -15,13 +15,11 @@ This project aims to predict customer churn for a telecommunications company usi
 
 ## Installation
 
-To get started with the project, clone the repository and install the required dependencies:
-
-```bash
-git clone https://github.com/yourusername/telco-churn-prediction.git
-cd telco-churn-prediction
-pip install -r requirements.txt
-```
+To get started with the project, Install the required Libraries
+1.Python
+2.Numpy
+3.Scikit-Learn
+4.pickle
 
 ## Dataset Information
 
